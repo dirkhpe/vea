@@ -1,0 +1,16 @@
+############
+# Git Ignore
+############
+*.swp
+*.pyc
+*.log
+*.zip
+*.dot
+*.dot-input
+*.gif
+*.mwb.bak
+*.sqlite3
+.eslintrc.json
+.idea/
+__pycache__/
+node_modules/
